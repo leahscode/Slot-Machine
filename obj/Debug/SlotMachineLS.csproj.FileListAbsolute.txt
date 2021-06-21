@@ -1,0 +1,10 @@
+C:\Users\Leah\source\repos\SlotMachineLS\bin\Debug\SlotMachineLS.exe.config
+C:\Users\Leah\source\repos\SlotMachineLS\bin\Debug\SlotMachineLS.exe
+C:\Users\Leah\source\repos\SlotMachineLS\bin\Debug\SlotMachineLS.pdb
+C:\Users\Leah\source\repos\SlotMachineLS\obj\Debug\SlotMachineLS.csprojAssemblyReference.cache
+C:\Users\Leah\source\repos\SlotMachineLS\obj\Debug\SlotMachineLS.Form1.resources
+C:\Users\Leah\source\repos\SlotMachineLS\obj\Debug\SlotMachineLS.Properties.Resources.resources
+C:\Users\Leah\source\repos\SlotMachineLS\obj\Debug\SlotMachineLS.csproj.GenerateResource.cache
+C:\Users\Leah\source\repos\SlotMachineLS\obj\Debug\SlotMachineLS.csproj.CoreCompileInputs.cache
+C:\Users\Leah\source\repos\SlotMachineLS\obj\Debug\SlotMachineLS.exe
+C:\Users\Leah\source\repos\SlotMachineLS\obj\Debug\SlotMachineLS.pdb
